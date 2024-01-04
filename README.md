@@ -1,1 +1,0 @@
-Discover a healthier you with our fitness programs. At Spartanz Fitness, we're committed to helping you achieve your fitness goals through expert guidance, state-of-the-art facilities, and a supportive community.
