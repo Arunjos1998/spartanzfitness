@@ -1,0 +1,134 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Jan 2024 12:50:48 at https://slamfitnessstudio.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://slamfitnessstudio.in/ -O1 "H:\Arun\Slam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:51:33	Error: 	"Method Not Allowed" (405) at link https://slamfitnessstudio.in/xmlrpc.php (from https://slamfitnessstudio.in/)
+12:51:39	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://slamfitnessstudio.in/)
+12:53:13	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/wp-content/plugins/diviflash/public/imgimg/sort_asc.png (from https://slamfitnessstudio.in/wp-content/plugins/diviflash/public/css/lib/df_lib_styles.css?ver=1.2.6)
+12:53:13	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/wp-content/plugins/diviflash/public/css/lib/..../img/sort_asc_disabled.png (from https://slamfitnessstudio.in/wp-content/plugins/diviflash/public/css/lib/df_lib_styles.css?ver=1.2.6)
+12:53:13	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=39
+12:53:13	Warning: 	File has moved from https://slamfitnessstudio.in/?p=39 to https://slamfitnessstudio.in/contact-us/
+12:53:13	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=9
+12:53:13	Warning: 	File has moved from https://slamfitnessstudio.in/?p=9 to https://slamfitnessstudio.in/about-us/
+12:53:13	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=13
+12:53:13	Warning: 	File has moved from https://slamfitnessstudio.in/?p=13 to https://slamfitnessstudio.in/functional-fitness-training/
+12:53:13	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=14
+12:53:13	Warning: 	File has moved from https://slamfitnessstudio.in/?p=14 to https://slamfitnessstudio.in/fitness-bootcamp-chennai/
+12:53:13	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=15
+12:53:13	Warning: 	File has moved from https://slamfitnessstudio.in/?p=15 to https://slamfitnessstudio.in/body-transformation-studio/
+12:53:13	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=16
+12:53:13	Warning: 	File has moved from https://slamfitnessstudio.in/?p=16 to https://slamfitnessstudio.in/best-gym-for-weight-loss-chennai/
+12:53:13	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=32
+12:53:13	Warning: 	File has moved from https://slamfitnessstudio.in/?p=32 to https://slamfitnessstudio.in/blogs/
+12:56:19	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4739
+12:56:19	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4739 to https://slamfitnessstudio.in/store-locator/
+12:56:22	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=38
+12:56:22	Warning: 	File has moved from https://slamfitnessstudio.in/?p=38 to https://slamfitnessstudio.in/franchise/
+12:56:22	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4603
+12:56:22	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4603 to https://slamfitnessstudio.in/water-rich-foods-in-weight-loss/
+12:56:31	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4632
+12:56:31	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4632 to https://slamfitnessstudio.in/importance-of-rest-day/
+12:56:37	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4642
+12:56:37	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4642 to https://slamfitnessstudio.in/best-choice-for-a-gym-franchise/
+12:56:39	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4606
+12:56:39	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4606 to https://slamfitnessstudio.in/best-arm-exercises/
+12:56:39	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4652
+12:56:39	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4652 to https://slamfitnessstudio.in/importance-of-leg-day/
+12:56:46	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4594
+12:56:46	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4594 to https://slamfitnessstudio.in/benefits-of-hydration-during-workouts/
+12:56:46	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4584
+12:56:46	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4584 to https://slamfitnessstudio.in/tips-to-manage-your-fitness/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4572
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4572 to https://slamfitnessstudio.in/how-to-increase-body-metabolism-naturally/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4456
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4456 to https://slamfitnessstudio.in/ways-to-incorporate-fitness-in-daily-routine/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4459
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4459 to https://slamfitnessstudio.in/science-of-muscle-growth-you-should-know/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4436
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4436 to https://slamfitnessstudio.in/signs-of-wrong-weight-lifting/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4433
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4433 to https://slamfitnessstudio.in/keto-vs-normal-diet/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4429
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4429 to https://slamfitnessstudio.in/importance-of-hiit-workout/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4424
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4424 to https://slamfitnessstudio.in/importance-of-personal-training/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4421
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4421 to https://slamfitnessstudio.in/health-benefits-of-whey-protein/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4202
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4202 to https://slamfitnessstudio.in/benefits-of-outdoor-and-indoor-workouts/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4206
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4206 to https://slamfitnessstudio.in/healthy-eating-lifestyle/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=4209
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=4209 to https://slamfitnessstudio.in/micro-and-macro-nutrition/
+12:56:47	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3855
+12:56:47	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3855 to https://slamfitnessstudio.in/ideal-time-for-workouts-morning-vs-evening/
+12:57:01	Warning: 	Moved Permanently for https://slamfitnessstudio.in/best-exercises-to-build-muscle/
+12:57:01	Warning: 	File has moved from https://slamfitnessstudio.in/best-exercises-to-build-muscle/ to https://slamfitnessstudio.in/exercises-to-build-muscle/
+12:57:01	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3935
+12:57:01	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3935 to https://slamfitnessstudio.in/lean-vs-bulk-muscle-which-is-better/
+12:57:08	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3931
+12:57:08	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3931 to https://slamfitnessstudio.in/whey-and-plant-based-protein-powder/
+12:57:08	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3669
+12:57:08	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3669 to https://slamfitnessstudio.in/fitness-boot-camps-in-chennai/
+12:57:19	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3668
+12:57:19	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3668 to https://slamfitnessstudio.in/tips-to-relax-muscles/
+12:57:19	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3667
+12:57:19	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3667 to https://slamfitnessstudio.in/simple-weight-gain-exercises/
+12:57:19	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3666
+12:57:19	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3666 to https://slamfitnessstudio.in/tips-to-build-your-muscles/
+12:57:19	Warning: 	Moved Permanently for https://slamfitnessstudio.in/5-tips-to-relax-muscles-after-exercise/
+12:57:19	Warning: 	File has moved from https://slamfitnessstudio.in/5-tips-to-relax-muscles-after-exercise/ to https://slamfitnessstudio.in/tips-to-relax-muscles/
+12:57:19	Warning: 	Moved Permanently for https://slamfitnessstudio.in/10-simple-weight-gain-exercises-expert-tips/
+12:57:19	Warning: 	File has moved from https://slamfitnessstudio.in/10-simple-weight-gain-exercises-expert-tips/ to https://slamfitnessstudio.in/simple-weight-gain-exercises/
+12:57:19	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3665
+12:57:19	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3665 to https://slamfitnessstudio.in/exercises-to-build-muscle/
+12:57:24	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3647
+12:57:24	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3647 to https://slamfitnessstudio.in/5-benefits-of-staying-fit-and-healthy/
+12:57:24	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3652
+12:57:24	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3652 to https://slamfitnessstudio.in/20-proven-weight-loss-tips-that-you-should-try/
+12:57:24	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3653
+12:57:24	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3653 to https://slamfitnessstudio.in/effective-weight-loss-fat-burning-exercises/
+12:57:24	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3660
+12:57:24	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3660 to https://slamfitnessstudio.in/muscle-building-diet-tips/
+12:57:24	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/wp-content/plugins/agile-store-locator/public/css/images/shape-icon.png (from https://slamfitnessstudio.in/wp-content/plugins/agile-store-locator/public/css/tmpl-0/tmpl-0.css?ver=1.4.18)
+12:57:27	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/wp-content/et-cache/taxonomy/category/1/et-divi-dynamic-tb-4086-tb-93.css?ver=1705648969 (from https://slamfitnessstudio.in/category/uncategorized/)
+12:57:27	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/wp-content/et-cache/author/2/et-divi-dynamic-tb-4086-tb-93-late.css?ver=1705648882 (from https://slamfitnessstudio.in/author/seo-admin/page/2/)
+12:57:27	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/wp-content/et-cache/taxonomy/category/17/et-divi-dynamic-tb-4086-tb-93-late.css?ver=1705648882 (from https://slamfitnessstudio.in/category/muscle-gain/page/2/)
+12:57:29	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3655
+12:57:29	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3655 to https://slamfitnessstudio.in/why-is-it-necessary-to-have-a-personal-fitness-trainer/
+12:57:29	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/wp-content/et-cache/taxonomy/category/18/et-divi-dynamic-tb-4086-tb-93-late.css?ver=1705648886 (from https://slamfitnessstudio.in/category/workouts/page/2/)
+12:57:29	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3659
+12:57:29	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3659 to https://slamfitnessstudio.in/how-many-calories-should-i-burn-in-the-gym/
+12:57:29	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/fat-burning-exercises/ (from https://slamfitnessstudio.in/how-many-calories-should-i-burn-in-the-gym/)
+12:57:29	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3661
+12:57:29	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3661 to https://slamfitnessstudio.in/5-reasons-why-you-dont-see-results-from-workout/
+12:57:35	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3648
+12:57:35	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3648 to https://slamfitnessstudio.in/10-morning-habits-to-start-your-day-off-right/
+12:57:35	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3656
+12:57:35	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3656 to https://slamfitnessstudio.in/how-to-lose-weight-fast-and-safely/
+12:57:35	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3663
+12:57:35	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3663 to https://slamfitnessstudio.in/choose-the-best-functional-fitness-gym/
+12:57:35	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=20
+12:57:35	Warning: 	File has moved from https://slamfitnessstudio.in/?p=20 to https://slamfitnessstudio.in/gym-in-ashok-nagar/
+12:57:36	Error: 	"Not Found" (404) at link https://slamfitnessstudio.in/morning-habits-to-start-your-day-right/ (from https://slamfitnessstudio.in/5-benefits-of-staying-fit-and-healthy/2/)
+12:58:15	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3662
+12:58:15	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3662 to https://slamfitnessstudio.in/tips-to-follow-while-doing-cardio-for-weight-loss/
+12:58:20	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3646
+12:58:20	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3646 to https://slamfitnessstudio.in/best-indian-diet-plans-for-weight-loss/
+12:58:40	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3664
+12:58:40	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3664 to https://slamfitnessstudio.in/difference-between-cross-fit-and-functional-training/
+12:58:40	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3651
+12:58:40	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3651 to https://slamfitnessstudio.in/ten-quick-and-effective-exercises-you-can-do-at-work/
+12:58:40	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3654
+12:58:40	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3654 to https://slamfitnessstudio.in/find-the-best-gym-in-chennai/
+12:58:40	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3657
+12:58:40	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3657 to https://slamfitnessstudio.in/success-tips-for-full-body-transformation/
+12:58:40	Warning: 	Moved Permanently for https://slamfitnessstudio.in/?p=3658
+12:58:40	Warning: 	File has moved from https://slamfitnessstudio.in/?p=3658 to https://slamfitnessstudio.in/how-to-choose-the-right-gym-trainer-for-you/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 54 seconds : 791 links scanned, 722 files written (53786184 bytes overall) [35448619 bytes received at 74786 bytes/sec], 23586789 bytes transferred using HTTP compression in 367 files, ratio 15%, 7.6 requests per connection
+(11 errors, 112 warnings, 0 messages)
